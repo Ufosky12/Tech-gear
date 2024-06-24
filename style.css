@@ -1,0 +1,55 @@
+body{
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+header{
+    background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+}
+.navbar-brand{
+    color: #0a58ca !important;
+}
+.nav-link{
+     font-family: 500;
+     color: black !important;
+}
+.btn .btn-primary{
+    color: white !important;
+}
+.btn .btn-primary:hover {
+    background-color: blue !important;
+}
+.nav-link:hover {
+    color: #0a57cad0;
+    background-color: white;
+}
+.vrwimg{
+    height: 600px;
+    width: 600px;
+}
+p{
+    font-size: 18px;
+
+}.blue-bg {
+    background-color: #0a58ca;
+    color: #fff;
+}
+.icons{
+color: #0a58ca !important;
+height: 32px;
+width: 32px;
+background-color: #f2f2f2;
+margin-bottom: 16px;
+padding: 6px;
+
+}.nav-tabs{
+    border: none !important;
+}
+.nav-tab .nav-item .nav-link-active{
+    background-color: #0a58ca;
+    color: white;
+}.vrimge{
+    height: 200px;
+    width: 250px;
+}
+
